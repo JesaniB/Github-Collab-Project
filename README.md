@@ -8,11 +8,11 @@ This repository was created to demonstrate basic Git and GitHub collaboration wo
 Steps Followed
 1. Created a local project folder and initialized it with `git init`.
 2. Created a Python file (`Github_Tutorial_Project.py`) containing group member names and a print function.
-3. Created a new branch (`ProjectFinal`) using `git checkout -b`.
+3. Created a new branch (`ProjectFixed`) using `git checkout -b`.
 4. Added and committed the file with `git add` and `git commit`.
 5. Connected the local repository to GitHub using `git remote add origin`.
-6. Pushed the branch to GitHub using `git push -u origin ProjectFinal`.
-7. Submitted a pull request from `ProjectFinal` to `main` on GitHub.
+6. Pushed the branch to GitHub using `git push -u origin ProjectFixed`.
+7. Submitted a pull request from `ProjectFixed` to `main` on GitHub.
 
 Collaborators
 - Jesani Barton
